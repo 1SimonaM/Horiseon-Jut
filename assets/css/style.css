@@ -73,6 +73,7 @@ p {
     margin-left: 20px;
 }
 
+/* Benefit image styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -84,11 +85,12 @@ p {
     background-color: #2589bd;
 }
 
+/* Service section styles */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Service image styles */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
