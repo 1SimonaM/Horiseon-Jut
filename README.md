@@ -5,7 +5,7 @@ Website Accessibility Refactoring for Orion-Jut-Project.
 
 ## Project Description
 
-The purpose of this project is to code refactoring a marketing agency website to improve its readability and accessibility.  Code refactoring simplifies the complexity of the web and implementation of the software. It eliminates unnecessary redundancy, and it ensures that people with disabilities can access the website using assistive technologies. In addition, enhances user experience for all visitors, it improves the site's search engine ranking, while avoiding potential litigation. 
+The purpose of this project is to code refactoring a marketing agency website to improve its readability and accessibility.  Code refactoring simplifies the complexity of the web and implementation of the software. It eliminates redundancy, and it ensures that people with disabilities can access the website using assistive technologies. In addition, enhances user experience for all visitors, it improves the site's search engine ranking, while avoiding potential litigation. 
 
 
 ## Project Goals
