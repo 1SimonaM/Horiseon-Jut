@@ -19,15 +19,15 @@ The purpose of this project is to code refactoring a marketing agency website to
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first.
+Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-Please make see to update tests as appropriate.
+Please make sure to update tests as appropriate.
 
 
 ## Credits
 
-https://github.com/ManelP02
+https://github.com/ManuelP02
 
 https://github.com/juhuyoon
 
