@@ -22,5 +22,5 @@ https://github.com/juhuyoon
 
 
 ## License
-![image](https://github.com/1SimonaM/Orion-Jut-Project/assets/162058040/b8195c79-89e9-42e2-a624-fa56a0017da8)
+[MIT](https://choosealicense.com/licenses/mit/)
 
